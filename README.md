@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meghanath Shetty</h1>
 <h3 align="center">A passionate Software devoleper, India</h3>
 
-- 👨‍💻You can check out my portfolio [[https://portfolio-red-nine-45.vercel.app/](https://portfolio-red-nine-45.vercel.app/)](https://portfolio-meghanathshettys-projects.vercel.app/)
+- 👨‍💻You can check out my portfolio https://portfolio-meghanathshettys-projects.vercel.app/
 
 - 📫 How to reach me **meghanshetty3122@gmail.com**
 
