@@ -3,7 +3,7 @@
 
 - 👨‍💻You can check out my portfolio https://portfolio-meghanathshettys-projects.vercel.app/
 
-- 📫 How to reach me **meghanshetty3122@gmail.com**
+- 📫 How to reach me **meghanathshetty22t@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1Z5olP-7IfOEJrXLMB9p6pDnCq_zOraC6/view?usp=drivesdk
 
