@@ -5,10 +5,7 @@
 
 - 📫 How to reach me **meghanathshetty22t@gmail.com**
   
--   <a href="https://www.linkedin.com/in/meghanath-shetty-6b86a3264/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn" width="40" height="40"/>
-  </a> My LinkedIn https://www.linkedin.com/in/meghanath-shetty-6b86a3264/
+- 💼 My LinkedIn https://www.linkedin.com/in/meghanath-shetty-6b86a3264/
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1iarDmsWJFPX3zFIbltfYGUxlMVhxmOBK/view?usp=sharing
 <h3 align="left">Languages and Tools:</h3>
