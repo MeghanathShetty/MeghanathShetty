@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **meghanathshetty22t@gmail.com**
   
-- My LinkedIn https://www.linkedin.com/in/meghanath-shetty-6b86a3264/
+- ![LinkedIn] skillicons.dev ( My LinkedIn https://www.linkedin.com/in/meghanath-shetty-6b86a3264/
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1iarDmsWJFPX3zFIbltfYGUxlMVhxmOBK/view?usp=sharing
 <h3 align="left">Languages and Tools:</h3>
